@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BTree", "BTree.fsproj", "{0FDE5642-2E4A-473A-AB78-3C9CFBF417BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDE5642-2E4A-473A-AB78-3C9CFBF417BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDE5642-2E4A-473A-AB78-3C9CFBF417BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDE5642-2E4A-473A-AB78-3C9CFBF417BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDE5642-2E4A-473A-AB78-3C9CFBF417BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
